@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f452211622d05784aa900a0f81172dfd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - healthBar: {instanceID: 0}
+  - VanishingMaterial: {fileID: 2100000, guid: 0cac020e6679d1e4888688e1d9dda05c, type: 2}
+  - VanishedMaterial: {fileID: 2100000, guid: cd601c2cd5b33b84b8145c3ffb3416f5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
